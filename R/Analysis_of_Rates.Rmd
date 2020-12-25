@@ -1,6 +1,6 @@
 ---
 title: "Impact of Opioid Prescription Rate on Suicide Rates and Poverty Levels of Counties in the United States"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
